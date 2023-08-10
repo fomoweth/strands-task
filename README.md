@@ -1,6 +1,6 @@
 # Strands Task
 
-Deployed at <a href="https://goerli.lineascan.build/address/0xaE778109BAfe1e62bEa36AF14eE00Ed437BBF2A7">0xaE778109BAfe1e62bEa36AF14eE00Ed437BBF2A7</a>
+Deployed at <a href="https://goerli.lineascan.build/address/0xaE778109BAfe1e62bEa36AF14eE00Ed437BBF2A7#code">0xaE778109BAfe1e62bEa36AF14eE00Ed437BBF2A7</a>
 
 ## Task Instruction
 
